@@ -1,0 +1,12 @@
+# 编译产物
+/LinuxForWindows_32
+/LinuxForWindows_64
+
+# Claude Code 本地配置
+/.claude/
+
+# 临时脚本
+.tmp_*.sh
+
+# 转换输出目录 (如 test/Kill/)
+test/*/
